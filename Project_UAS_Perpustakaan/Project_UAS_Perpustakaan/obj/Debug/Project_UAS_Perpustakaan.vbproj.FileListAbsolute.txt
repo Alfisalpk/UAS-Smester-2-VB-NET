@@ -1,0 +1,16 @@
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\bin\Debug\Project_UAS_Perpustakaan.exe.config
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\bin\Debug\Project_UAS_Perpustakaan.exe
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\bin\Debug\Project_UAS_Perpustakaan.pdb
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\bin\Debug\Project_UAS_Perpustakaan.xml
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Resources.resources
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.vbproj.GenerateResource.Cache
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.exe
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.xml
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.pdb
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Aplikasi_Perpustakaan.resources
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Data_Buku.resources
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Peminjaman.resources
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Data_Staff.resources
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.vbprojResolveAssemblyReference.cache
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Login.resources
+E:\Data Microsoft Word\Kuliah\2.Semester 2\5. Bahasa Pemrograman\UAS\Project_UAS_Perpustakaan\Project_UAS_Perpustakaan\obj\Debug\Project_UAS_Perpustakaan.Formhggggg1.resources
